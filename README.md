@@ -92,3 +92,7 @@ Helps reduce typing errors while still offering privacy.
 
 This project is free for personal or educational use.
 Feel free to modify or enhance it!
+
+🙌 Author
+IDU SAMUEL
+Cybersecurity & Programming Enthusiast
